@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Absensi</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="open_drawer">OpenDrawer</string>
+    <string name="close_drawer">CloseDrawer</string>
+    <string name="home">DAFTAR MATAKULIAH</string>
+    <string name="title_activity_main2">Halaman Utama</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Fauzan Arif Sani</string>
+    <string name="nav_header_subtitle">16650086@student.uin-suka.ac.id</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
